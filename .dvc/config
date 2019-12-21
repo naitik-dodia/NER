@@ -1,4 +1,2 @@
 ['remote "myremote"']
 url = /tmp/my-dvc-storage
-gdrive_client_id = 763950064932-cjgqvarbe1o12nsge1c2jomf4f03ounq.apps.googleusercontent.com
-gdrive_client_secret = 8MmquJVlPRS3VMvRCF93QxPq
