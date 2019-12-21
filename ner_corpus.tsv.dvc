@@ -1,0 +1,7 @@
+md5: 8f44034372acd6abac7c2dfb0cc88709
+outs:
+- md5: 0a605ecaa4f83a4180cfdb69efc4e350
+  path: ner_corpus.tsv
+  cache: true
+  metric: false
+  persist: false
