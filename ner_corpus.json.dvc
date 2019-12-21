@@ -1,0 +1,7 @@
+md5: 4ca38abaa1603b5174f30133db2372cc
+outs:
+- md5: abdcc003d685326584ca9fa4a1c7608c
+  path: ner_corpus.json
+  cache: true
+  metric: false
+  persist: false
